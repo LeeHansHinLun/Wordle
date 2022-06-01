@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'adaawḵ',
+  /**'adaawḵ',
   'adixs',
   'algyax̱',
   'algyax̱',
@@ -182,7 +182,8 @@ export const WORDS = [
   "x̱ts'aḵxw",
   'yag̱ay',
   'yoog̱an',
-  'yuxwsa',
+  'yuxwsa',**/
+  'hello'
 ]
 
 if (CONFIG.normalization) {
