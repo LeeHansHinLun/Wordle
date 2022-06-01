@@ -183,6 +183,7 @@ export const VALIDGUESSES = [
   'yag̱ay',
   'yoog̱an',
   'yuxwsa',
+  'hello',
 ]
 
 if (CONFIG.normalization) {
