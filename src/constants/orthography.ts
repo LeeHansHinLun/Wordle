@@ -1,8 +1,8 @@
 import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
-  "hello",
-  "world"
+  "a",
+  "b"
 ]
 
 if (CONFIG.normalization) {
