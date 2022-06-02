@@ -2,7 +2,11 @@ import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
   "a",
-  "b"
+  "b",
+  "h",
+  "e",
+  "l",
+  "o"
 ]
 
 if (CONFIG.normalization) {
